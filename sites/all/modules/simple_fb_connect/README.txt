@@ -30,3 +30,5 @@ sites/all/libraries/facebook-php-sdk/readme.md exist
 5) Enable Simple FB Connect module and configure at 
 admin/config/people/simple-fb-connect
 6) Enter your app id and secret key obtained from facebook and save your settings
+
+// Adding new commits
